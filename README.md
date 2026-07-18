@@ -2,9 +2,19 @@
 
 # 🧁 Página de Receita - Cupcake
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/github/license/vbuarque/RS-Pagina-Receita-HTML?style=flat-square"/>
+<img src="https://img.shields.io/github/last-commit/vbuarque/RS-Pagina-Receita-HTML?style=flat-square"/>
+<img src="https://img.shields.io/github/repo-size/vbuarque/RS-Pagina-Receita-HTML?style=flat-square"/>
+
+</p>
+
 Uma página de receita estática desenvolvida como parte da formação **Fullstack** da Rocketseat.
 
-<img src="./Thumbnail.png" alt="Preview do projeto" width="900"/>
+<img src="./assets/images/Thumbnail.png" alt="Preview do projeto" width="900"/>
 
 </div>
 
@@ -58,7 +68,6 @@ Durante o desenvolvimento foram revisados conceitos como:
 │   ├── images/
 ├── index.html
 ├── style.css
-├── Thumbnail.png
 └── README.md
 ```
 
