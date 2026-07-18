@@ -116,6 +116,12 @@ Desenvolvido por **Vinícius Buarque**.
 
 ---
 
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
+
+---
+
 <p align="center">
 Feito com ❤️ durante os estudos da formação Fullstack da Rocketseat.
 </p>
