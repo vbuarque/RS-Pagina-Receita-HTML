@@ -32,8 +32,7 @@ Embora seja um projeto simples, ele representa uma etapa importante na consolida
 
 ## 🚀 Demonstração
 
-🔗 **Deploy:**  
-https://vbuarque.github.io/RS-Pagina-Receita-HTML/
+🔗 **Deploy:** https://vbuarque.github.io/RS-Pagina-Receita-HTML/
 
 ---
 
@@ -113,7 +112,7 @@ Este projeto foi desenvolvido como exercício de revisão dos fundamentos de HTM
 
 Desenvolvido por **Vinícius Buarque**.
 
-- GitHub: https://github.com/vbuarque
+- GitHub: [@vbuarque](https://github.com/vbuarque)
 
 ---
 
