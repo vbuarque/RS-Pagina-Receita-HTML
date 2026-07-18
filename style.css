@@ -64,3 +64,9 @@ h2 {
 ul {
   padding-left: 24px;
 }
+
+footer {
+  text-align: center;
+  margin-bottom: 48px;
+  color: #F0E8C2;
+}
