@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 48px 0px 100px 0px;
+  box-sizing: border-box;
+  background-image: url(assets/bg-image.png);
+  background-size: cover;
+}
+
+img {
+  border-radius: 16px;
+}
